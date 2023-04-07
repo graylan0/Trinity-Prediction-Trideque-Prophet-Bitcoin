@@ -1,4 +1,4 @@
-# Trinity-Prediction-Trideque-Preidiction-Prophet-Bitcoin
+# Trinity-Prediction-Trideque-Prophet-Bitcoin
 This is a Python script that predicts the price of Bitcoin for the next day, week, and month using the historical Bitcoin price data from Alpha Vantage. The script uses the Prophet library, a forecasting tool developed by Facebook, to make predictions.
 
 Here's a breakdown of the code:
